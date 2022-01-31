@@ -1,1 +1,6 @@
-# Ejercicio-de-visualizacion-de-datos
+Los estadounidenses apoyan el aborto, pero no en todas las situaciones
+Respuestas a las encuestas de Gallup que preguntan a los estadounidenses en qué circunstancias el aborto debería ser legal, desde 1975 a 2021
+¿Por qué la ley de aborto de Texas puede ir demasiado lejos para la mayoría de los estadounidenses?
+¿Cuáles deberían ser esas circunstancias? 
+Esa es una pregunta sorprendentemente difícil de responder, en parte porque los estadounidenses generalmente no saben cómo las restricciones específicas realmente afectan el acceso al aborto. Por ejemplo, según una encuesta realizada por Kaiser Family Foundation, el 69 por ciento de los estadounidenses apoyó que los abortos los realicen únicamente médicos con privilegios de admisión hospitalaria, una restricción que la Corte Suprema ha rechazado repetidamente por imponer demasiados requisitos. carga sobre las mujeres que buscan un aborto. Esa podría ser una buena noticia para los defensores contra el aborto, si significa que el amplio apoyo para mantener a Roe en los libros no se traduce necesariamente en oposición a restricciones específicas del aborto.
+En resumen es un tema muy delicado que debe seguirse tratando en pro del bienestar de las mujeres que quedan embarazadas bajo circunstancias no deseadas. 
